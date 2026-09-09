@@ -5,4 +5,8 @@
 
 ## ¿Quiénes somos?
 
-Somos la alianza definitiva de supervillanos.
+Somos la alianza definitiva.
+
+## Miembros
+
+1. **Lex Luthor** - Fundador y estratega principal.
