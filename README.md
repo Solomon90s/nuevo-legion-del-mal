@@ -10,3 +10,4 @@ Somos la alianza definitiva.
 ## Miembros
 
 1. **Lex Luthor** - Fundador y estratega principal.
+2. **Joker** - Maestro del caos y la anarquía.
