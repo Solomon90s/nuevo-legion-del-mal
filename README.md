@@ -11,3 +11,5 @@ Somos la alianza definitiva.
 
 1. **Lex Luthor** - Fundador y estratega principal.
 2. **Joker** - Maestro del caos y la anarquía.
+3. **Thanos** - Portador del Guantelete del Infinito.
+4. **Magneto** - Líder de los mutantes.
