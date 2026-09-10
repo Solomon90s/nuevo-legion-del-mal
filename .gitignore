@@ -1,1 +1,8 @@
-codigos-lanzamiento.env
+## Variables de entorno
+*.env
+
+## Dependencias node
+node_modules/
+
+## Archivos de distribución
+dist/
