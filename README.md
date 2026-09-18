@@ -1,3 +1,14 @@
+![Estático](https://img.shields.io/badge/Legion--del--Mal-Activa-red)
+
+![Con logo](https://img.shields.io/badge/Git-2.47.3-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+![Workflow](https://img.shields.io/github/actions/workflow/status/Solomon90s/nuevo-legion-del-mal/ci.yml)
+![Release](https://img.shields.io/github/v/release/Solomon90s/nuevo-legion-del-mal)
+![Issues](https://img.shields.io/github/issues/Solomon90s/nuevo-legion-del-mal)
+![Último commit](https://img.shields.io/github/last-commit/Solomon90s/nuevo-legion-del-mal)
+![Licencia](https://img.shields.io/github/license/Solomon90s/nuevo-legion-del-mal)
+
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
