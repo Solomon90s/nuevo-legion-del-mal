@@ -7,7 +7,7 @@
 ![Release](https://img.shields.io/github/v/release/Solomon90s/nuevo-legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/Solomon90s/nuevo-legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/Solomon90s/nuevo-legion-del-mal)
-![Licencia](https://img.shields.io/github/license/Solomon90s/nuevo-legion-del-mal)
+![Licencia](https://img.shields.io/github/license/Solomon90s/nuevo-legion-del-mal?cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
