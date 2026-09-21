@@ -8,7 +8,11 @@
 ![Último commit](https://img.shields.io/github/last-commit/Solomon90s/nuevo-legion-del-mal)
 ![Licencia](https://img.shields.io/github/license/Solomon90s/nuevo-legion-del-mal?cacheSeconds=60)
 
+<<<<<<< HEAD
 # 🦹‍♂️ La Legión del Mal - Desde repositorio remoto y local
+=======
+# 🦹‍♂️ La Legión del Mal - Desde repositorio local y remoto
+>>>>>>> 6945ff8 (fix: solventar conflicto entre remoto y local)
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
