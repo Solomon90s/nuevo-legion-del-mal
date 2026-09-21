@@ -2,7 +2,6 @@
 
 ![Con logo](https://img.shields.io/badge/Git-2.47.3-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
 ![Workflow](https://img.shields.io/github/actions/workflow/status/Solomon90s/nuevo-legion-del-mal/ci.yml)
 ![Release](https://img.shields.io/github/v/release/Solomon90s/nuevo-legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/Solomon90s/nuevo-legion-del-mal)
@@ -18,7 +17,7 @@
 
 Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
 
-## Estructura de la organización!!
+## Estructura de la organización
 
 ```
 📁 planes/          → Operaciones aprobadas por el Consejo
@@ -30,7 +29,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 📄 nuevas-misiones.yaml    → Estado global de las nuevas misiones
 ```
 
-## El Consejo de Villanos!!
+## El Consejo de Villanos
 
 | Rango                     | Miembro    | Rol                                                     |
 | ------------------------- | ---------- | ------------------------------------------------------- |
@@ -68,7 +67,7 @@ La Liga de la Justicia y los Vengadores han formado una alianza. Nuestros expedi
 
 **No subestimar a:** Superman, Batman, Wonder Woman, Iron Man, Spider-Man, Thor.
 
-## Banderas de estado:
+## Banderas de estado
 
 - 🟢 Operativa
 - 🟡 En desarrollo
@@ -79,7 +78,7 @@ La Liga de la Justicia y los Vengadores han formado una alianza. Nuestros expedi
 
 _Este repositorio es propiedad de la Legión del Mal. Acceso no autorizado será castigado con severidad. Si tienes acceso a este repositorio, eres de los nuestros o Brainiac no está trabajando._
 
-## Contacto:
+## Contacto
 
 - **Correo:**
 - **Discord:**
