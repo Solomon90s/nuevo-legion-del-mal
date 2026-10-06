@@ -19,6 +19,20 @@ on:
         required: true
         default: "La misión fue un éxito"
 
+      # cow_character
+      cow_character:
+        description: "Utilizando la librería cowsay"
+        required: true
+        type: choice
+        options:
+          - cat
+          - charizardvice
+          - doge
+          - dolphin
+          - dragon
+          - fox
+          - king
+
       prioridad:
         description: "Nivel de prioridad"
         required: true
@@ -45,7 +59,7 @@ jobs:
           echo "De : ${{inputs.villano}}"
           echo "Fecha: $(date -u +"%d/%m/%Y - %H:%M UTC")"
           echo "----------- Mensaje -----------"
-          cowsay -f eyes "${{inputs.mensaje}}"
+          cowsay -f "${{inputs.cow_character}}"
           echo ""
           echo "---- ${{inputs.villano}}"
           echo "...."
