@@ -25,9 +25,9 @@ jobs:
           ls -la
           echo "👌 Funciona!!!"
           echo ""
-          echo "Planes"
+          echo "Planes:"
           ls planes/
           echo "Villanos:"
-          ls villanos/
+          ls miembros/
           echo "Inteligencia"
           ls inteligencia
